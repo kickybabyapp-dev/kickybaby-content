@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "categories": [
     {
       "id": "seafood",
@@ -7,8 +7,8 @@
       "icon": "fish.fill",
       "items": [
         {
-          "id": "salmone",
-          "name": "السلمون",
+          "id": "salmon",
+          "name": "السالمون",
           "safety": "safe",
           "notes": "غني بأوميغا 3، ممتاز لنمو دماغ الطفل. اقتصري على 2-3 حصص أسبوعياً.",
           "icon": "fish.fill"
