@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "categories": [
     {
       "id": "seafood",
@@ -29,7 +29,7 @@
         },
         {
           "id": "sushi_raw",
-          "name": "السوشي/الساشيمي النيء",
+          "name": "السوشي النيء",
           "safety": "avoid",
           "notes": "خطر الطفيليات والبكتيريا. اختاري اللفائف المطبوخة أو النباتية.",
           "icon": "xmark.circle.fill"
