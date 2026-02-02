@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "articles": [
+    {
+      "id": "article_first_trimester",
+      "title": "First Trimester: What to Expect",
+      "summary": "A complete guide to the first 12 weeks of pregnancy and the changes your body will experience.",
+      "content": "The first trimester is an exciting and sometimes challenging time. Your baby is developing rapidly, going from a tiny cluster of cells to having all major organs formed.\n\n**Weeks 1-4:**\nConception occurs and the fertilized egg implants in your uterus. You may not even know you're pregnant yet!\n\n**Weeks 5-8:**\nThe heart begins to beat, and tiny limb buds appear. You might start experiencing morning sickness and fatigue.\n\n**Weeks 9-12:**\nYour baby is now called a fetus. Fingers and toes are forming, and you may hear the heartbeat at your prenatal visit.\n\n**Common Symptoms:**\n- Morning sickness (can happen any time of day)\n- Extreme fatigue\n- Breast tenderness\n- Frequent urination\n- Food aversions or cravings\n\n**Tips:**\n- Take prenatal vitamins with folic acid\n- Stay hydrated\n- Rest when you need to\n- Avoid alcohol, smoking, and raw foods",
+      "category": "weekly_updates",
+      "icon": "calendar",
+      "readTimeMinutes": 5,
+      "relevantWeeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "tags": ["trimester", "beginning", "symptoms", "development"]
+    },
+    {
+      "id": "article_second_trimester",
+      "title": "Second Trimester: The Golden Period",
+      "summary": "Many women find the second trimester the most enjoyable. Here's what happens during weeks 13-27.",
+      "content": "Welcome to the second trimester! Many women call this the 'golden period' because morning sickness often eases and energy returns.\n\n**Weeks 13-16:**\nYour baby can make facial expressions and may start sucking their thumb. You might start showing!\n\n**Weeks 17-20:**\nYou may feel the first flutters of movement (quickening). The anatomy scan happens around week 20.\n\n**Weeks 21-27:**\nYour baby can hear you! They're growing quickly and developing sleep patterns.\n\n**Common Symptoms:**\n- Increased energy\n- Visible baby bump\n- Baby movements\n- Back pain may begin\n- Skin changes (linea nigra, stretch marks)\n\n**Tips:**\n- Start sleeping on your side\n- Stay active with gentle exercise\n- Begin planning the nursery\n- Sign up for prenatal classes",
+      "category": "weekly_updates",
+      "icon": "calendar",
+      "readTimeMinutes": 5,
+      "relevantWeeks": [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
+      "tags": ["trimester", "middle", "movement", "growth"]
+    },
+    {
+      "id": "article_third_trimester",
+      "title": "Third Trimester: The Home Stretch",
+      "summary": "The final weeks of pregnancy bring excitement and preparation. Learn what to expect from week 28 onwards.",
+      "content": "You're in the home stretch! The third trimester brings rapid growth and preparation for birth.\n\n**Weeks 28-32:**\nYour baby is gaining weight rapidly. Start counting kicks daily. Braxton Hicks contractions may begin.\n\n**Weeks 33-36:**\nThe baby moves into head-down position. Pack your hospital bag and finalize your birth plan.\n\n**Weeks 37-40:**\nYour baby is full-term at 37 weeks. Watch for signs of labor and stay in touch with your healthcare provider.\n\n**Common Symptoms:**\n- Shortness of breath\n- Frequent urination (again!)\n- Trouble sleeping\n- Braxton Hicks contractions\n- Nesting instinct\n\n**Tips:**\n- Count kicks daily\n- Prepare your birth plan\n- Pack your hospital bag\n- Rest and conserve energy\n- Know the signs of labor",
+      "category": "weekly_updates",
+      "icon": "calendar",
+      "readTimeMinutes": 5,
+      "relevantWeeks": [28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40],
+      "tags": ["trimester", "final", "preparation", "birth"]
+    },
+    {
+      "id": "article_nutrition_basics",
+      "title": "Pregnancy Nutrition Essentials",
+      "summary": "What to eat for a healthy pregnancy and proper baby development.",
+      "content": "Good nutrition during pregnancy is crucial for your health and your baby's development.\n\n**Key Nutrients:**\n\n**Folic Acid (400-800 mcg daily)**\nPrevents neural tube defects. Found in leafy greens, fortified cereals, and supplements.\n\n**Iron (27 mg daily)**\nSupports increased blood volume. Found in lean meat, beans, and fortified cereals.\n\n**Calcium (1000 mg daily)**\nBuilds baby's bones and teeth. Found in dairy, fortified plant milk, and leafy greens.\n\n**Protein (75-100g daily)**\nSupports baby's growth. Found in meat, fish, eggs, beans, and dairy.\n\n**Omega-3 Fatty Acids**\nSupports brain development. Found in fatty fish (salmon, sardines) and DHA supplements.\n\n**Foods to Include:**\n- Colorful fruits and vegetables\n- Whole grains\n- Lean proteins\n- Low-fat dairy\n- Healthy fats (avocado, nuts)\n\n**Foods to Limit:**\n- Caffeine (under 200mg/day)\n- High-mercury fish\n- Processed foods\n- Added sugars",
+      "category": "nutrition",
+      "icon": "leaf.fill",
+      "readTimeMinutes": 6,
+      "relevantWeeks": null,
+      "tags": ["nutrition", "food", "vitamins", "diet"]
+    },
+    {
+      "id": "article_safe_exercise",
+      "title": "Safe Exercises During Pregnancy",
+      "summary": "Stay active and healthy with these pregnancy-safe workout options.",
+      "content": "Exercise during pregnancy offers many benefits including improved mood, better sleep, and easier labor.\n\n**Benefits of Exercise:**\n- Reduces back pain\n- Improves sleep\n- Reduces stress and anxiety\n- Helps manage weight gain\n- May shorten labor\n\n**Safe Exercises:**\n\n**Walking**\nThe perfect low-impact exercise. Aim for 30 minutes daily.\n\n**Swimming**\nSupports your weight and is gentle on joints. Great for all trimesters.\n\n**Prenatal Yoga**\nImproves flexibility and relaxation. Helps prepare for labor.\n\n**Stationary Cycling**\nSafe cardio without balance concerns.\n\n**Strength Training**\nLight weights with proper form. Avoid lying flat on your back after first trimester.\n\n**Exercises to Avoid:**\n- Contact sports\n- Activities with fall risk\n- Hot yoga or hot tubs\n- Lying flat on back (after 1st trimester)\n- High-altitude activities\n\n**Warning Signs to Stop:**\n- Dizziness or shortness of breath\n- Chest pain\n- Vaginal bleeding\n- Contractions\n- Fluid leaking",
+      "category": "exercise",
+      "icon": "figure.walk",
+      "readTimeMinutes": 5,
+      "relevantWeeks": null,
+      "tags": ["exercise", "fitness", "health", "activity"]
+    },
+    {
+      "id": "article_common_symptoms",
+      "title": "Managing Common Pregnancy Symptoms",
+      "summary": "Practical tips for dealing with nausea, fatigue, back pain, and more.",
+      "content": "Pregnancy brings many physical changes. Here's how to manage common discomforts.\n\n**Morning Sickness**\n- Eat small, frequent meals\n- Try ginger tea or candies\n- Avoid strong smells\n- Eat crackers before getting up\n- Stay hydrated\n\n**Fatigue**\n- Rest when you can\n- Go to bed earlier\n- Light exercise can help\n- Eat iron-rich foods\n- Accept help from others\n\n**Back Pain**\n- Wear supportive shoes\n- Sleep with a pillow between legs\n- Practice good posture\n- Gentle stretching\n- Prenatal massage\n\n**Heartburn**\n- Eat smaller meals\n- Avoid spicy and fatty foods\n- Don't lie down right after eating\n- Sleep propped up\n- Antacids (ask your doctor)\n\n**Swelling**\n- Elevate your feet\n- Stay hydrated\n- Avoid standing too long\n- Wear comfortable shoes\n- Reduce salt intake\n\n**When to Call Your Doctor:**\n- Severe headaches\n- Vision changes\n- Sudden severe swelling\n- Decreased baby movement\n- Signs of preterm labor",
+      "category": "symptoms",
+      "icon": "heart.text.square",
+      "readTimeMinutes": 6,
+      "relevantWeeks": null,
+      "tags": ["symptoms", "comfort", "relief", "tips"]
+    },
+    {
+      "id": "article_preparing_labor",
+      "title": "Preparing for Labor and Delivery",
+      "summary": "Everything you need to know to feel ready for the big day.",
+      "content": "As your due date approaches, preparing for labor can help you feel more confident.\n\n**Signs of Labor:**\n- Contractions that get stronger and closer together\n- Water breaking\n- Bloody show (mucus plug)\n- Back pain that doesn't go away\n- Feeling the baby \"drop\"\n\n**When to Go to the Hospital:**\n- Contractions 5 minutes apart for 1 hour\n- Water breaks (note color and time)\n- Decreased baby movement\n- Heavy bleeding\n- Severe headache or vision changes\n\n**Pain Management Options:**\n\n**Natural Methods:**\n- Breathing techniques\n- Movement and position changes\n- Water (shower or tub)\n- Massage\n- Birthing ball\n\n**Medical Options:**\n- Epidural\n- IV pain medication\n- Nitrous oxide (laughing gas)\n\n**Your Birth Plan:**\nConsider your preferences for:\n- Who you want present\n- Pain management\n- Monitoring preferences\n- Cord clamping timing\n- Skin-to-skin contact\n- Feeding preferences\n\nRemember: Plans may change based on how labor progresses. Stay flexible!",
+      "category": "labor",
+      "icon": "cross.case.fill",
+      "readTimeMinutes": 7,
+      "relevantWeeks": [32, 33, 34, 35, 36, 37, 38, 39, 40],
+      "tags": ["labor", "delivery", "birth", "preparation"]
+    },
+    {
+      "id": "article_mental_health",
+      "title": "Mental Health During Pregnancy",
+      "summary": "Taking care of your emotional wellbeing is just as important as physical health.",
+      "content": "Pregnancy brings emotional changes along with physical ones. It's important to prioritize your mental health.\n\n**Common Feelings:**\n- Joy and excitement\n- Anxiety about the future\n- Mood swings\n- Worry about baby's health\n- Changes in relationships\n\n**Self-Care Tips:**\n- Rest when you need to\n- Stay connected with loved ones\n- Limit stressful situations\n- Practice relaxation techniques\n- Gentle exercise\n- Get enough sleep\n\n**Warning Signs to Watch:**\n- Persistent sadness or hopelessness\n- Severe anxiety\n- Changes in appetite or sleep\n- Difficulty bonding with baby\n- Thoughts of harming yourself or baby\n\n**Getting Help:**\nIf you're struggling, reach out to:\n- Your healthcare provider\n- A mental health professional\n- Support groups\n- Trusted friends and family\n\n**Postpartum Planning:**\nStart thinking now about:\n- Your support system\n- Help with household tasks\n- Signs of postpartum depression\n- Resources available to you\n\nYou're not alone. Many women experience emotional challenges during pregnancy.",
+      "category": "mental_health",
+      "icon": "brain.head.profile",
+      "readTimeMinutes": 5,
+      "relevantWeeks": null,
+      "tags": ["mental health", "emotions", "anxiety", "support"]
+    },
+    {
+      "id": "article_baby_development",
+      "title": "Baby's Amazing Development",
+      "summary": "Marvel at how your baby grows from a tiny cell to a full-term baby.",
+      "content": "Your baby's development is truly remarkable. Here's what happens during these 40 weeks.\n\n**First Trimester (Weeks 1-12):**\n- Week 4: Heart begins forming\n- Week 6: Brain and spinal cord develop\n- Week 8: All major organs are present\n- Week 10: Fingers and toes separate\n- Week 12: Baby can make movements\n\n**Second Trimester (Weeks 13-27):**\n- Week 14: Baby can make facial expressions\n- Week 18: Can hear sounds\n- Week 20: Halfway there! Can determine sex\n- Week 24: Lungs are developing\n- Week 27: Eyes can open and close\n\n**Third Trimester (Weeks 28-40):**\n- Week 28: Can respond to light\n- Week 32: Bones fully formed (but soft)\n- Week 36: Brain developing rapidly\n- Week 37: Considered full-term\n- Week 40: Ready for birth!\n\n**Size Milestones:**\n- Week 8: Size of a raspberry\n- Week 12: Size of a lime\n- Week 20: Size of a banana\n- Week 30: Size of a cabbage\n- Week 40: Size of a watermelon\n\nEvery week brings new developments. Your baby is growing stronger every day!",
+      "category": "baby_development",
+      "icon": "face.smiling",
+      "readTimeMinutes": 5,
+      "relevantWeeks": null,
+      "tags": ["development", "growth", "milestones", "baby"]
+    },
+    {
+      "id": "article_postpartum",
+      "title": "Preparing for Postpartum",
+      "summary": "What to expect after birth and how to prepare for the fourth trimester.",
+      "content": "The postpartum period (also called the fourth trimester) brings big changes. Being prepared can help.\n\n**Physical Recovery:**\n- Vaginal soreness or C-section healing\n- Uterus contracting back to size\n- Postpartum bleeding (lochia)\n- Breast engorgement\n- Fatigue and sleep deprivation\n\n**Emotional Changes:**\n- Baby blues (first 2 weeks)\n- Bonding with baby\n- Adjusting to new role\n- Relationship changes\n- Possible postpartum depression\n\n**Recovery Tips:**\n- Rest when baby sleeps\n- Accept help from others\n- Stay hydrated\n- Eat nutritious foods\n- Gentle movement when ready\n\n**What to Prepare:**\n- Comfortable recovery items\n- Nursing supplies if breastfeeding\n- Freezer meals\n- Help lined up\n- Baby essentials\n\n**Warning Signs:**\n- Heavy bleeding (soaking a pad in an hour)\n- Fever over 100.4°F\n- Severe headache or vision changes\n- Thoughts of harming yourself or baby\n- Signs of infection\n\n**When to Call Doctor:**\n- Your 6-week checkup is important\n- Call sooner if you have concerns\n- Don't wait if you're struggling emotionally",
+      "category": "postpartum",
+      "icon": "figure.and.child.holdinghands",
+      "readTimeMinutes": 6,
+      "relevantWeeks": [36, 37, 38, 39, 40],
+      "tags": ["postpartum", "recovery", "newborn", "fourth trimester"]
+    }
+  ]
+}

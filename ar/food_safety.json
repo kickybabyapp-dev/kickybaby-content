@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "seafood",
+      "name": "المأكولات البحرية",
+      "icon": "fish.fill",
+      "items": [
+        {
+          "id": "salmon",
+          "name": "السلمون",
+          "safety": "safe",
+          "notes": "غني بأوميغا 3، ممتاز لنمو دماغ الطفل. اقتصري على 2-3 حصص أسبوعياً.",
+          "icon": "fish.fill"
+        },
+        {
+          "id": "shrimp",
+          "name": "الروبيان",
+          "safety": "safe",
+          "notes": "قليل الزئبق، غني بالبروتين. اطبخيه جيداً حتى 63 درجة مئوية.",
+          "icon": "fish.fill"
+        },
+        {
+          "id": "canned_tuna",
+          "name": "التونة المعلبة الخفيفة",
+          "safety": "caution",
+          "notes": "أقل زئبقاً من الألباكور. اقتصري على 170 غرام أسبوعياً.",
+          "icon": "fish.fill"
+        },
+        {
+          "id": "sushi_raw",
+          "name": "السوشي/الساشيمي النيء",
+          "safety": "avoid",
+          "notes": "خطر الطفيليات والبكتيريا. اختاري اللفائف المطبوخة أو النباتية.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "high_mercury_fish",
+          "name": "الأسماك عالية الزئبق",
+          "safety": "avoid",
+          "notes": "تجنبي سمك القرش وأبو سيف والماكريل الملك بسبب ارتفاع الزئبق.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "raw_oysters",
+          "name": "المحار النيء",
+          "safety": "avoid",
+          "notes": "خطر بكتيريا الفيبريو. تناوليه مطبوخاً تماماً فقط.",
+          "icon": "xmark.circle.fill"
+        }
+      ]
+    },
+    {
+      "id": "dairy",
+      "name": "الألبان والبيض",
+      "icon": "cup.and.saucer.fill",
+      "items": [
+        {
+          "id": "pasteurized_milk",
+          "name": "الحليب المبستر",
+          "safety": "safe",
+          "notes": "مصدر ممتاز للكالسيوم وفيتامين د. اختاري المنتجات المبسترة فقط.",
+          "icon": "cup.and.saucer.fill"
+        },
+        {
+          "id": "hard_cheese",
+          "name": "الجبن الصلب",
+          "safety": "safe",
+          "notes": "الشيدر والبارميزان والسويسري آمنة حتى لو صنعت من حليب غير مبستر.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "cooked_eggs",
+          "name": "البيض المطبوخ جيداً",
+          "safety": "safe",
+          "notes": "اطبخيه حتى يتماسك الصفار والبياض. مصدر بروتين ممتاز.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "pasteurized_yogurt",
+          "name": "الزبادي المبستر",
+          "safety": "safe",
+          "notes": "مصدر ممتاز للبروبيوتيك والكالسيوم. اختاري الأنواع المبسترة.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "soft_cheese",
+          "name": "الجبن الطري غير المبستر",
+          "safety": "avoid",
+          "notes": "البري والكاممبير والجبن الأزرق قد تحتوي على الليستيريا إلا إذا كانت مبسترة.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "raw_eggs",
+          "name": "البيض النيء أو السائل",
+          "safety": "avoid",
+          "notes": "خطر السالمونيلا. تجنبي المايونيز المنزلي والموس وعجينة الكوكيز النيئة.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "raw_milk",
+          "name": "الحليب غير المبستر",
+          "safety": "avoid",
+          "notes": "قد يحتوي على بكتيريا ضارة بما في ذلك الليستيريا. اختاري المبستر دائماً.",
+          "icon": "xmark.circle.fill"
+        }
+      ]
+    },
+    {
+      "id": "meat",
+      "name": "اللحوم والدواجن",
+      "icon": "fork.knife",
+      "items": [
+        {
+          "id": "well_done_meat",
+          "name": "اللحم المطبوخ جيداً",
+          "safety": "safe",
+          "notes": "اطبخي اللحم البقري ولحم الخنزير والضأن حتى 71 درجة مئوية.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "chicken_cooked",
+          "name": "الدواجن المطبوخة تماماً",
+          "safety": "safe",
+          "notes": "اطبخي الدجاج والديك الرومي حتى 74 درجة مئوية. مصدر بروتين ممتاز.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "deli_meat_heated",
+          "name": "اللحوم الباردة المسخنة",
+          "safety": "caution",
+          "notes": "سخني اللحوم الباردة حتى تصبح ساخنة جداً (74 درجة مئوية) لقتل الليستيريا.",
+          "icon": "exclamationmark.triangle.fill"
+        },
+        {
+          "id": "rare_steak",
+          "name": "اللحم النادر/المتوسط",
+          "safety": "avoid",
+          "notes": "اللحم غير المطبوخ جيداً قد يحتوي على بكتيريا ضارة. اطبخيه تماماً.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "cold_deli_meat",
+          "name": "اللحوم الباردة",
+          "safety": "avoid",
+          "notes": "خطر تلوث الليستيريا. سخنيها حتى تصبح ساخنة قبل الأكل.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "pate",
+          "name": "الباتيه",
+          "safety": "avoid",
+          "notes": "الباتيه المبرد قد يحتوي على الليستيريا. النسخ المعلبة أكثر أماناً.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "liver",
+          "name": "الكبد",
+          "safety": "avoid",
+          "notes": "يحتوي على مستويات عالية جداً من فيتامين أ الذي قد يضر بالطفل.",
+          "icon": "xmark.circle.fill"
+        }
+      ]
+    },
+    {
+      "id": "fruits_vegetables",
+      "name": "الفواكه والخضروات",
+      "icon": "leaf.fill",
+      "items": [
+        {
+          "id": "washed_produce",
+          "name": "المنتجات الطازجة المغسولة",
+          "safety": "safe",
+          "notes": "اغسلي جميع الفواكه والخضروات جيداً. ممتازة للفيتامينات والألياف.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "cooked_vegetables",
+          "name": "الخضروات المطبوخة",
+          "safety": "safe",
+          "notes": "الطبخ يزيل أي بكتيريا سطحية. آمنة ومغذية.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "fresh_juice_pasteurized",
+          "name": "العصير المبستر",
+          "safety": "safe",
+          "notes": "اختاري العصائر المبسترة. العصير الطازج في المنزل آمن أيضاً.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "raw_sprouts",
+          "name": "البراعم النيئة",
+          "safety": "avoid",
+          "notes": "براعم الفصفصة والفاصوليا قد تحتوي على بكتيريا. اطبخيها قبل الأكل.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "unpasteurized_juice",
+          "name": "العصير غير المبستر",
+          "safety": "avoid",
+          "notes": "العصائر الطازجة من المحلات قد لا تكون مبسترة. اسألي أولاً.",
+          "icon": "xmark.circle.fill"
+        }
+      ]
+    },
+    {
+      "id": "beverages",
+      "name": "المشروبات",
+      "icon": "cup.and.saucer.fill",
+      "items": [
+        {
+          "id": "water",
+          "name": "الماء",
+          "safety": "safe",
+          "notes": "حافظي على ترطيبك! اهدفي لـ 8-10 أكواب يومياً. المفلتر أو المعبأ أفضل.",
+          "icon": "drop.fill"
+        },
+        {
+          "id": "herbal_tea_safe",
+          "name": "شاي الأعشاب الآمن",
+          "safety": "safe",
+          "notes": "شاي الزنجبيل والنعناع والحمضيات آمنة بشكل عام باعتدال.",
+          "icon": "cup.and.saucer.fill"
+        },
+        {
+          "id": "limited_caffeine",
+          "name": "القهوة/الشاي (محدود)",
+          "safety": "caution",
+          "notes": "حافظي على الكافيين أقل من 200 ملغ يومياً (حوالي فنجان قهوة).",
+          "icon": "cup.and.saucer.fill"
+        },
+        {
+          "id": "alcohol",
+          "name": "الكحول",
+          "safety": "avoid",
+          "notes": "لا توجد كمية آمنة من الكحول أثناء الحمل. تجنبيه تماماً.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "herbal_tea_unsafe",
+          "name": "بعض شاي الأعشاب",
+          "safety": "avoid",
+          "notes": "تجنبي جذر العرقسوس ودونغ كاي والأعشاب الطبية. اسألي طبيبتك.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "energy_drinks",
+          "name": "مشروبات الطاقة",
+          "safety": "avoid",
+          "notes": "كافيين عالي ومنبهات أخرى. غير آمنة أثناء الحمل.",
+          "icon": "xmark.circle.fill"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "name": "أطعمة أخرى",
+      "icon": "fork.knife",
+      "items": [
+        {
+          "id": "cooked_tofu",
+          "name": "التوفو والبقوليات",
+          "safety": "safe",
+          "notes": "مصادر بروتين نباتية ممتازة. اطبخي التوفو جيداً.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "nuts",
+          "name": "المكسرات والبذور",
+          "safety": "safe",
+          "notes": "مصدر ممتاز للدهون الصحية والبروتين (إلا إذا كان لديك حساسية).",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "honey",
+          "name": "العسل",
+          "safety": "safe",
+          "notes": "آمن للحوامل. غير آمن للأطفال دون سنة واحدة.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "artificial_sweeteners",
+          "name": "المحليات الصناعية",
+          "safety": "caution",
+          "notes": "الأسبارتام والسكرالوز آمنة باعتدال. قللي من السكرين.",
+          "icon": "exclamationmark.triangle.fill"
+        },
+        {
+          "id": "unwashed_produce",
+          "name": "المنتجات غير المغسولة",
+          "safety": "avoid",
+          "notes": "اغسلي الفواكه والخضروات دائماً لإزالة البكتيريا والمبيدات.",
+          "icon": "xmark.circle.fill"
+        }
+      ]
+    }
+  ]
+}

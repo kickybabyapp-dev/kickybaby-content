@@ -1,0 +1,205 @@
+{
+  "version": 1,
+  "tips": [
+    {
+      "id": "tip_hydration_1",
+      "week": null,
+      "title": "حافظي على رطوبتك",
+      "content": "اشربي 8-10 أكواب من الماء يومياً. الترطيب الجيد يدعم السائل الأمنيوسي ويساعد في منع الإمساك.",
+      "category": "wellness",
+      "icon": "drop.fill"
+    },
+    {
+      "id": "tip_prenatal_vitamins",
+      "week": null,
+      "title": "تناولي فيتامينات الحمل",
+      "content": "فيتامينات الحمل مع حمض الفوليك ضرورية لنمو الأنبوب العصبي لطفلك. تناوليها في نفس الوقت يومياً.",
+      "category": "nutrition",
+      "icon": "pills.fill"
+    },
+    {
+      "id": "tip_sleep_position",
+      "week": 20,
+      "title": "نامي على جانبك",
+      "content": "بعد الأسبوع 20، النوم على الجانب الأيسر يحسن تدفق الدم لطفلك. استخدمي الوسائد للدعم.",
+      "category": "wellness",
+      "icon": "bed.double.fill"
+    },
+    {
+      "id": "tip_kick_counting",
+      "week": 28,
+      "title": "عدي الركلات",
+      "content": "ابتداءً من الأسبوع 28، راقبي حركات طفلك. يجب أن تشعري بـ 10 حركات على الأقل خلال ساعتين.",
+      "category": "baby",
+      "icon": "figure.walk"
+    },
+    {
+      "id": "tip_pelvic_floor",
+      "week": null,
+      "title": "تمارين قاع الحوض",
+      "content": "تمارين كيجل تقوي عضلات قاع الحوض، مما يساعد في الولادة والتعافي بعدها. مارسيها يومياً!",
+      "category": "exercise",
+      "icon": "figure.core.training"
+    },
+    {
+      "id": "tip_small_meals",
+      "week": null,
+      "title": "وجبات صغيرة ومتكررة",
+      "content": "تناول 5-6 وجبات صغيرة بدلاً من 3 كبيرة يساعد في تخفيف الغثيان والحموضة.",
+      "category": "nutrition",
+      "icon": "fork.knife"
+    },
+    {
+      "id": "tip_gentle_stretching",
+      "week": null,
+      "title": "تمارين الإطالة الخفيفة",
+      "content": "الإطالة الخفيفة تساعد في تخفيف آلام الظهر وتوتر العضلات. ركزي على أسفل الظهر والوركين.",
+      "category": "exercise",
+      "icon": "figure.flexibility"
+    },
+    {
+      "id": "tip_baby_hearing",
+      "week": 18,
+      "title": "طفلك يسمعك",
+      "content": "حوالي الأسبوع 18، يبدأ طفلك بالسمع! تحدثي، غني، أو شغلي موسيقى لصغيرك.",
+      "category": "baby",
+      "icon": "ear.fill"
+    },
+    {
+      "id": "tip_breathing_exercises",
+      "week": null,
+      "title": "تمارين التنفس",
+      "content": "تمارين التنفس العميق تساعد في تقليل التوتر وستكون مفيدة أثناء الولادة. تدربي يومياً لبضع دقائق.",
+      "category": "wellness",
+      "icon": "wind"
+    },
+    {
+      "id": "tip_iron_rich_foods",
+      "week": null,
+      "title": "أطعمة غنية بالحديد",
+      "content": "تناولي أطعمة غنية بالحديد مثل السبانخ واللحوم الحمراء والبقوليات لمنع فقر الدم ودعم نمو طفلك.",
+      "category": "nutrition",
+      "icon": "leaf.fill"
+    },
+    {
+      "id": "tip_birth_plan",
+      "week": 32,
+      "title": "ضعي خطة الولادة",
+      "content": "ابدئي بالتفكير في تفضيلاتك للولادة. ناقشي خيارات تخفيف الألم ومن تريدين أن يكون معك.",
+      "category": "preparation",
+      "icon": "list.clipboard.fill"
+    },
+    {
+      "id": "tip_rest_when_tired",
+      "week": null,
+      "title": "استريحي عند التعب",
+      "content": "تكوين طفل عمل شاق! استمعي لجسمك واستريحي عند الحاجة. القيلولة القصيرة مفيدة جداً.",
+      "category": "wellness",
+      "icon": "zzz"
+    },
+    {
+      "id": "tip_hospital_bag",
+      "week": 36,
+      "title": "حضري حقيبة المستشفى",
+      "content": "حوالي الأسبوع 36، جهزي حقيبة المستشفى بالضروريات لك ولطفلك. لا تنسي شواحن الهاتف!",
+      "category": "preparation",
+      "icon": "bag.fill"
+    },
+    {
+      "id": "tip_moisturize",
+      "week": null,
+      "title": "رطبي بشرتك",
+      "content": "حافظي على ترطيب بطنك ووركيك وصدرك للمساعدة في تمدد الجلد وتقليل الحكة.",
+      "category": "wellness",
+      "icon": "drop.circle.fill"
+    },
+    {
+      "id": "tip_prenatal_classes",
+      "week": 24,
+      "title": "دورات ما قبل الولادة",
+      "content": "فكري في التسجيل في دورات الولادة. تساعدك أنت وشريكك في الاستعداد للولادة.",
+      "category": "preparation",
+      "icon": "person.2.fill"
+    },
+    {
+      "id": "tip_first_trimester_fatigue",
+      "week": 8,
+      "title": "إرهاق الثلث الأول",
+      "content": "الشعور بالإرهاق طبيعي في الثلث الأول. جسمك يعمل بجد. عادة يتحسن بحلول الأسبوع 12.",
+      "category": "wellness",
+      "icon": "battery.25"
+    },
+    {
+      "id": "tip_morning_sickness",
+      "week": 6,
+      "title": "التعامل مع غثيان الصباح",
+      "content": "جربي أكل البسكويت قبل النهوض من السرير، تجنبي الروائح القوية، وتناولي الزنجبيل للمساعدة.",
+      "category": "wellness",
+      "icon": "cross.case.fill"
+    },
+    {
+      "id": "tip_calcium_intake",
+      "week": null,
+      "title": "احصلي على كفايتك من الكالسيوم",
+      "content": "طفلك يحتاج الكالسيوم لنمو العظام. تناولي منتجات الألبان والأطعمة المدعمة أو المكملات.",
+      "category": "nutrition",
+      "icon": "cup.and.saucer.fill"
+    },
+    {
+      "id": "tip_dental_care",
+      "week": null,
+      "title": "لا تهملي صحة أسنانك",
+      "content": "هرمونات الحمل قد تؤثر على لثتك. استمري في زيارات طبيب الأسنان وحافظي على نظافة الفم.",
+      "category": "wellness",
+      "icon": "mouth.fill"
+    },
+    {
+      "id": "tip_omega3",
+      "week": null,
+      "title": "أحماض أوميغا 3",
+      "content": "أوميغا 3 تدعم نمو دماغ طفلك. المصادر الآمنة تشمل السلمون والسردين ومكملات DHA.",
+      "category": "nutrition",
+      "icon": "fish.fill"
+    },
+    {
+      "id": "tip_walking",
+      "week": null,
+      "title": "المشي اليومي",
+      "content": "المشي 30 دقيقة يومياً يحسن الدورة الدموية ويرفع المزاج ويساعد في الحفاظ على وزن صحي.",
+      "category": "exercise",
+      "icon": "figure.walk"
+    },
+    {
+      "id": "tip_baby_movements_change",
+      "week": 36,
+      "title": "حركات الطفل قد تتغير",
+      "content": "مع نمو الطفل، قد تشعرين بحركات مختلفة لكن يجب أن تبقى منتظمة. تواصلي مع طبيبتك إذا قلقتِ.",
+      "category": "baby",
+      "icon": "hand.wave.fill"
+    },
+    {
+      "id": "tip_limit_caffeine",
+      "week": null,
+      "title": "قللي الكافيين",
+      "content": "حافظي على الكافيين أقل من 200 ملغ يومياً (حوالي فنجان قهوة). الكثير قد يؤثر على نمو طفلك.",
+      "category": "nutrition",
+      "icon": "cup.and.saucer.fill"
+    },
+    {
+      "id": "tip_support_system",
+      "week": null,
+      "title": "ابني شبكة دعمك",
+      "content": "تواصلي مع أمهات حوامل أخريات، العائلة، أو الأصدقاء. وجود الدعم يجعل الرحلة أسهل.",
+      "category": "general",
+      "icon": "person.3.fill"
+    },
+    {
+      "id": "tip_third_trimester_prep",
+      "week": 28,
+      "title": "بداية الثلث الأخير",
+      "content": "مرحباً بك في المرحلة الأخيرة! ركزي على الراحة والتحضير والاستمتاع بهذه الأسابيع الأخيرة.",
+      "category": "general",
+      "icon": "star.fill"
+    }
+  ]
+}

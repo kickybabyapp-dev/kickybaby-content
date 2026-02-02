@@ -1,0 +1,205 @@
+{
+  "version": 1,
+  "tips": [
+    {
+      "id": "tip_hydration_1",
+      "week": null,
+      "title": "Stay Hydrated",
+      "content": "Drink at least 8-10 glasses of water daily. Proper hydration supports amniotic fluid levels and helps prevent constipation.",
+      "category": "wellness",
+      "icon": "drop.fill"
+    },
+    {
+      "id": "tip_prenatal_vitamins",
+      "week": null,
+      "title": "Take Your Prenatal Vitamins",
+      "content": "Prenatal vitamins with folic acid are essential for your baby's neural tube development. Take them at the same time each day.",
+      "category": "nutrition",
+      "icon": "pills.fill"
+    },
+    {
+      "id": "tip_sleep_position",
+      "week": 20,
+      "title": "Sleep on Your Side",
+      "content": "After 20 weeks, sleeping on your left side improves blood flow to your baby. Use pillows for support.",
+      "category": "wellness",
+      "icon": "bed.double.fill"
+    },
+    {
+      "id": "tip_kick_counting",
+      "week": 28,
+      "title": "Count Those Kicks",
+      "content": "Starting at 28 weeks, monitor your baby's movements. You should feel at least 10 movements within 2 hours.",
+      "category": "baby",
+      "icon": "figure.walk"
+    },
+    {
+      "id": "tip_pelvic_floor",
+      "week": null,
+      "title": "Pelvic Floor Exercises",
+      "content": "Kegel exercises strengthen your pelvic floor muscles, helping with labor and postpartum recovery. Do them daily!",
+      "category": "exercise",
+      "icon": "figure.core.training"
+    },
+    {
+      "id": "tip_small_meals",
+      "week": null,
+      "title": "Eat Small, Frequent Meals",
+      "content": "Eating 5-6 small meals instead of 3 large ones can help with nausea and heartburn.",
+      "category": "nutrition",
+      "icon": "fork.knife"
+    },
+    {
+      "id": "tip_gentle_stretching",
+      "week": null,
+      "title": "Gentle Stretching",
+      "content": "Light stretching can help relieve back pain and muscle tension. Focus on your lower back and hips.",
+      "category": "exercise",
+      "icon": "figure.flexibility"
+    },
+    {
+      "id": "tip_baby_hearing",
+      "week": 18,
+      "title": "Baby Can Hear You",
+      "content": "Around 18 weeks, your baby starts hearing! Talk, sing, or play music for your little one.",
+      "category": "baby",
+      "icon": "ear.fill"
+    },
+    {
+      "id": "tip_breathing_exercises",
+      "week": null,
+      "title": "Practice Breathing",
+      "content": "Deep breathing exercises help reduce stress and will be useful during labor. Practice daily for a few minutes.",
+      "category": "wellness",
+      "icon": "wind"
+    },
+    {
+      "id": "tip_iron_rich_foods",
+      "week": null,
+      "title": "Iron-Rich Foods",
+      "content": "Include iron-rich foods like spinach, lean meat, and beans to prevent anemia and support your growing baby.",
+      "category": "nutrition",
+      "icon": "leaf.fill"
+    },
+    {
+      "id": "tip_birth_plan",
+      "week": 32,
+      "title": "Create Your Birth Plan",
+      "content": "Start thinking about your birth preferences. Discuss pain management options and who you want present.",
+      "category": "preparation",
+      "icon": "list.clipboard.fill"
+    },
+    {
+      "id": "tip_rest_when_tired",
+      "week": null,
+      "title": "Rest When You're Tired",
+      "content": "Growing a baby is hard work! Listen to your body and rest when needed. Short naps can be very beneficial.",
+      "category": "wellness",
+      "icon": "zzz"
+    },
+    {
+      "id": "tip_hospital_bag",
+      "week": 36,
+      "title": "Pack Your Hospital Bag",
+      "content": "Around 36 weeks, prepare your hospital bag with essentials for you and baby. Don't forget phone chargers!",
+      "category": "preparation",
+      "icon": "bag.fill"
+    },
+    {
+      "id": "tip_moisturize",
+      "week": null,
+      "title": "Moisturize Your Skin",
+      "content": "Keep your belly, hips, and breasts moisturized to help with stretching skin and reduce itchiness.",
+      "category": "wellness",
+      "icon": "drop.circle.fill"
+    },
+    {
+      "id": "tip_prenatal_classes",
+      "week": 24,
+      "title": "Prenatal Classes",
+      "content": "Consider signing up for prenatal or birthing classes. They help prepare you and your partner for labor.",
+      "category": "preparation",
+      "icon": "person.2.fill"
+    },
+    {
+      "id": "tip_first_trimester_fatigue",
+      "week": 8,
+      "title": "First Trimester Fatigue",
+      "content": "Feeling exhausted is normal in the first trimester. Your body is working hard. This usually improves by week 12.",
+      "category": "wellness",
+      "icon": "battery.25"
+    },
+    {
+      "id": "tip_morning_sickness",
+      "week": 6,
+      "title": "Managing Morning Sickness",
+      "content": "Try eating crackers before getting out of bed, avoid strong smells, and eat ginger to help with nausea.",
+      "category": "wellness",
+      "icon": "cross.case.fill"
+    },
+    {
+      "id": "tip_calcium_intake",
+      "week": null,
+      "title": "Get Enough Calcium",
+      "content": "Your baby needs calcium for bone development. Include dairy products, fortified foods, or supplements.",
+      "category": "nutrition",
+      "icon": "cup.and.saucer.fill"
+    },
+    {
+      "id": "tip_dental_care",
+      "week": null,
+      "title": "Don't Skip Dental Care",
+      "content": "Pregnancy hormones can affect your gums. Continue regular dental checkups and maintain good oral hygiene.",
+      "category": "wellness",
+      "icon": "mouth.fill"
+    },
+    {
+      "id": "tip_omega3",
+      "week": null,
+      "title": "Omega-3 Fatty Acids",
+      "content": "Omega-3s support your baby's brain development. Safe sources include salmon, sardines, and DHA supplements.",
+      "category": "nutrition",
+      "icon": "fish.fill"
+    },
+    {
+      "id": "tip_walking",
+      "week": null,
+      "title": "Daily Walking",
+      "content": "A 30-minute daily walk improves circulation, boosts mood, and helps maintain a healthy weight.",
+      "category": "exercise",
+      "icon": "figure.walk"
+    },
+    {
+      "id": "tip_baby_movements_change",
+      "week": 36,
+      "title": "Baby's Movements May Change",
+      "content": "As baby grows bigger, movements may feel different but should still be regular. Contact your provider if concerned.",
+      "category": "baby",
+      "icon": "hand.wave.fill"
+    },
+    {
+      "id": "tip_limit_caffeine",
+      "week": null,
+      "title": "Limit Caffeine",
+      "content": "Keep caffeine under 200mg daily (about one 12oz coffee). Too much may affect your baby's growth.",
+      "category": "nutrition",
+      "icon": "cup.and.saucer.fill"
+    },
+    {
+      "id": "tip_support_system",
+      "week": null,
+      "title": "Build Your Support System",
+      "content": "Connect with other expecting parents, family, or friends. Having support makes the journey easier.",
+      "category": "general",
+      "icon": "person.3.fill"
+    },
+    {
+      "id": "tip_third_trimester_prep",
+      "week": 28,
+      "title": "Third Trimester Begins",
+      "content": "Welcome to the final stretch! Focus on rest, preparation, and enjoying these last weeks of pregnancy.",
+      "category": "general",
+      "icon": "star.fill"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "seafood",
+      "name": "Seafood",
+      "icon": "fish.fill",
+      "items": [
+        {
+          "id": "salmon",
+          "name": "Salmon",
+          "safety": "safe",
+          "notes": "Rich in omega-3s, great for baby's brain development. Limit to 2-3 servings per week.",
+          "icon": "fish.fill"
+        },
+        {
+          "id": "shrimp",
+          "name": "Shrimp",
+          "safety": "safe",
+          "notes": "Low mercury, high protein. Cook thoroughly to 145°F (63°C).",
+          "icon": "fish.fill"
+        },
+        {
+          "id": "canned_tuna",
+          "name": "Canned Light Tuna",
+          "safety": "caution",
+          "notes": "Lower in mercury than albacore. Limit to 6oz (170g) per week.",
+          "icon": "fish.fill"
+        },
+        {
+          "id": "sushi_raw",
+          "name": "Raw Sushi/Sashimi",
+          "safety": "avoid",
+          "notes": "Risk of parasites and bacteria. Stick to cooked rolls or vegetarian options.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "high_mercury_fish",
+          "name": "High Mercury Fish",
+          "safety": "avoid",
+          "notes": "Avoid shark, swordfish, king mackerel, and tilefish due to high mercury levels.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "raw_oysters",
+          "name": "Raw Oysters/Shellfish",
+          "safety": "avoid",
+          "notes": "Risk of Vibrio bacteria and other pathogens. Always eat fully cooked.",
+          "icon": "xmark.circle.fill"
+        }
+      ]
+    },
+    {
+      "id": "dairy",
+      "name": "Dairy & Eggs",
+      "icon": "cup.and.saucer.fill",
+      "items": [
+        {
+          "id": "pasteurized_milk",
+          "name": "Pasteurized Milk",
+          "safety": "safe",
+          "notes": "Great source of calcium and vitamin D. Choose pasteurized products only.",
+          "icon": "cup.and.saucer.fill"
+        },
+        {
+          "id": "hard_cheese",
+          "name": "Hard Cheeses",
+          "safety": "safe",
+          "notes": "Cheddar, parmesan, and swiss are safe even if made from unpasteurized milk.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "cooked_eggs",
+          "name": "Well-Cooked Eggs",
+          "safety": "safe",
+          "notes": "Cook until both yolk and white are firm. Great protein source.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "pasteurized_yogurt",
+          "name": "Yogurt (Pasteurized)",
+          "safety": "safe",
+          "notes": "Excellent source of probiotics and calcium. Choose pasteurized varieties.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "soft_cheese",
+          "name": "Soft Cheeses (Unpasteurized)",
+          "safety": "avoid",
+          "notes": "Brie, camembert, blue cheese may contain listeria unless pasteurized.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "raw_eggs",
+          "name": "Raw or Runny Eggs",
+          "safety": "avoid",
+          "notes": "Risk of salmonella. Avoid homemade mayo, mousse, and raw cookie dough.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "raw_milk",
+          "name": "Raw/Unpasteurized Milk",
+          "safety": "avoid",
+          "notes": "May contain harmful bacteria including listeria. Always choose pasteurized.",
+          "icon": "xmark.circle.fill"
+        }
+      ]
+    },
+    {
+      "id": "meat",
+      "name": "Meat & Poultry",
+      "icon": "fork.knife",
+      "items": [
+        {
+          "id": "well_done_meat",
+          "name": "Well-Done Meat",
+          "safety": "safe",
+          "notes": "Cook beef, pork, lamb to 160°F (71°C) internal temperature.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "chicken_cooked",
+          "name": "Fully Cooked Poultry",
+          "safety": "safe",
+          "notes": "Cook chicken and turkey to 165°F (74°C). Great lean protein source.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "deli_meat_heated",
+          "name": "Heated Deli Meat",
+          "safety": "caution",
+          "notes": "Heat deli meats until steaming (165°F/74°C) to kill potential listeria.",
+          "icon": "exclamationmark.triangle.fill"
+        },
+        {
+          "id": "rare_steak",
+          "name": "Rare/Medium Rare Meat",
+          "safety": "avoid",
+          "notes": "Undercooked meat may contain harmful bacteria. Cook thoroughly.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "cold_deli_meat",
+          "name": "Cold Deli Meats",
+          "safety": "avoid",
+          "notes": "Risk of listeria contamination. Heat until steaming before eating.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "pate",
+          "name": "Pâté & Meat Spreads",
+          "safety": "avoid",
+          "notes": "Refrigerated pâté may contain listeria. Canned versions are safer.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "liver",
+          "name": "Liver",
+          "safety": "avoid",
+          "notes": "Contains very high levels of vitamin A which can harm the baby.",
+          "icon": "xmark.circle.fill"
+        }
+      ]
+    },
+    {
+      "id": "fruits_vegetables",
+      "name": "Fruits & Vegetables",
+      "icon": "leaf.fill",
+      "items": [
+        {
+          "id": "washed_produce",
+          "name": "Washed Fresh Produce",
+          "safety": "safe",
+          "notes": "Wash all fruits and vegetables thoroughly. Great for vitamins and fiber.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "cooked_vegetables",
+          "name": "Cooked Vegetables",
+          "safety": "safe",
+          "notes": "Cooking eliminates any surface bacteria. Safe and nutritious.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "fresh_juice_pasteurized",
+          "name": "Pasteurized Juice",
+          "safety": "safe",
+          "notes": "Choose pasteurized juices. Fresh-squeezed at home is also safe.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "raw_sprouts",
+          "name": "Raw Sprouts",
+          "safety": "avoid",
+          "notes": "Alfalfa, bean, and other sprouts may harbor bacteria. Cook before eating.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "unpasteurized_juice",
+          "name": "Unpasteurized Juice",
+          "safety": "avoid",
+          "notes": "Fresh juices from juice bars may not be pasteurized. Ask first.",
+          "icon": "xmark.circle.fill"
+        }
+      ]
+    },
+    {
+      "id": "beverages",
+      "name": "Beverages",
+      "icon": "cup.and.saucer.fill",
+      "items": [
+        {
+          "id": "water",
+          "name": "Water",
+          "safety": "safe",
+          "notes": "Stay hydrated! Aim for 8-10 glasses daily. Filtered or bottled is best.",
+          "icon": "drop.fill"
+        },
+        {
+          "id": "herbal_tea_safe",
+          "name": "Safe Herbal Teas",
+          "safety": "safe",
+          "notes": "Ginger, peppermint, and citrus teas are generally safe in moderation.",
+          "icon": "cup.and.saucer.fill"
+        },
+        {
+          "id": "limited_caffeine",
+          "name": "Coffee/Tea (Limited)",
+          "safety": "caution",
+          "notes": "Keep caffeine under 200mg/day (about one 12oz coffee).",
+          "icon": "cup.and.saucer.fill"
+        },
+        {
+          "id": "alcohol",
+          "name": "Alcohol",
+          "safety": "avoid",
+          "notes": "No amount of alcohol is safe during pregnancy. Avoid completely.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "herbal_tea_unsafe",
+          "name": "Certain Herbal Teas",
+          "safety": "avoid",
+          "notes": "Avoid licorice root, dong quai, and other medicinal herbs. Ask your doctor.",
+          "icon": "xmark.circle.fill"
+        },
+        {
+          "id": "energy_drinks",
+          "name": "Energy Drinks",
+          "safety": "avoid",
+          "notes": "High caffeine and other stimulants. Not safe during pregnancy.",
+          "icon": "xmark.circle.fill"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "name": "Other Foods",
+      "icon": "fork.knife",
+      "items": [
+        {
+          "id": "cooked_tofu",
+          "name": "Tofu & Legumes",
+          "safety": "safe",
+          "notes": "Excellent plant-based protein sources. Cook tofu thoroughly.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "nuts",
+          "name": "Nuts & Seeds",
+          "safety": "safe",
+          "notes": "Great source of healthy fats and protein (unless you have allergies).",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "honey",
+          "name": "Honey",
+          "safety": "safe",
+          "notes": "Safe for pregnant women. Not safe for babies under 1 year.",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "id": "artificial_sweeteners",
+          "name": "Artificial Sweeteners",
+          "safety": "caution",
+          "notes": "Aspartame and sucralose are considered safe in moderation. Limit saccharin.",
+          "icon": "exclamationmark.triangle.fill"
+        },
+        {
+          "id": "unwashed_produce",
+          "name": "Unwashed Produce",
+          "safety": "avoid",
+          "notes": "Always wash fruits and vegetables to remove bacteria and pesticides.",
+          "icon": "xmark.circle.fill"
+        }
+      ]
+    }
+  ]
+}
