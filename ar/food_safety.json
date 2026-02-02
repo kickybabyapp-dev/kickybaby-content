@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "categories": [
     {
       "id": "seafood",
@@ -225,7 +225,7 @@
         },
         {
           "id": "limited_caffeine",
-          "name": "القهوة/الشاي (محدود)",
+          "name": "القهوة/الشاي ",
           "safety": "caution",
           "notes": "حافظي على الكافيين أقل من 200 ملغ يومياً (حوالي فنجان قهوة).",
           "icon": "cup.and.saucer.fill"
